@@ -1,0 +1,31 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantyZck/next-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantyZck/next-portfolio/issues"
+  },
+  "homepage": "https://github.com/SantyZck/next-portfolio#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "bootswatch": "^5.1.3",
+    "next": "^12.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
